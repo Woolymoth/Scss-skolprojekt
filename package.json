@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Skolprojekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Woolymoth/Scss-skolprojekt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Woolymoth/Scss-skolprojekt/issues"
+  },
+  "homepage": "https://github.com/Woolymoth/Scss-skolprojekt#readme",
+  "devDependencies": {
+    "sass": "^1.57.1"
+  }
+}
